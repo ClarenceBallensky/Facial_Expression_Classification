@@ -1,6 +1,7 @@
 # Facial Expression Classification
 
 Deep learning model created for the [Facial Expression Classification](https://www.kaggle.com/competitions/cs-4210-fall-2026-assignment-3-facial-expression-classification/submissions#) competition on Kaggle.
+Reference `research_poster.pdf` for implementation details. 
 
 ## Results
 
