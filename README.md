@@ -66,6 +66,8 @@ The files `train_data.csv`, `train_target.csv`, and `test_data.csv` are too larg
 
 Labels: `0` = angry, `1` = happy, `2` = neutral.
 
+Note the absence of `test_target.csv`. The Kaggle competition facilitators excluded this file from the `Data` section in order to prevent cheating. 
+
 ## How to run
 
 1. Install the requirements.
