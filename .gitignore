@@ -7,11 +7,5 @@ facial_expression_classification_research_poster.pptx
 # Assignment instructions
 assignment_instructions.pdf
 
-# Final model path
-best_finetuned_model.pth
-
-# Base model path
-base_model.pth
-
 # Data
 /data
